@@ -3,7 +3,7 @@
 🌱 I’m currently learning **Bash** and **C** to strengthen my system-level and scripting skills.  
 💬 Ask me anything about Linux, scripting, or beginner-friendly C projects — I’d love to collaborate or help out!  
 ⚡ I'm passionate about cybersecurity, automation, and building tools that make life easier.  
-📫 How to reach me: 0xnutzh@gmail.com
+📫 How to reach me: yous.khouya@gmail.com
 
 ### 📌 Projects I'm Working On
 
