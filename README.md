@@ -7,7 +7,7 @@
 
 ### 📌 Projects I'm Working On
 
--  **Mushroom** — my personal website built with **Next.js**, **TypeScript**, and **MDX**, featuring **56 technical writeups**  
+-  **Nutzh.top** — my personal website built with **Next.js**, **TypeScript**, and **MDX**, featuring **56 technical writeups**  
 -  **Path Checker** — a Python tool for detecting and testing path traversal issues  
 -  Security writeups and lab notes focused on **Hack The Box**, **TryHackMe**, and **HackMyVM**
 ### 🌐 My Website
