@@ -7,7 +7,7 @@
 
 ### 📌 Projects I'm Working On
 
--  **Nutzh.top** — my personal website built with **Next.js**, **TypeScript**, and **MDX**, featuring **56 technical writeups**  
+-  **Nutzh.top** — my personal website built with **Next.js**, **TypeScript**, and **MDX**, featuring **61 technical writeups**  
 -  **Path Checker** — a Python tool for detecting and testing path traversal issues  
 -  Security writeups and lab notes focused on **Hack The Box**, **TryHackMe**, and **HackMyVM**
 ### 🌐 My Website
@@ -18,9 +18,9 @@ Check out my writeups, and tutorials on my website:
 
 ### 📝 Latest Writeups
 
-- 🧱 [DevArea – Hack The Box](https://nutzh.top/hack-the-box/devarea/)
-- 🧱 [Kobold – Hack The Box](https://nutzh.top/hack-the-box/kobold/)
-- 🧱 [Access – Vulnyx](https://nutzh.top/vulnyx/access/)
+- 🧱 [Reactor – Hack The Box](https://nutzh.top/hack-the-box/Reactor/)
+- 🧱 [114 – HackMyVM](https://nutzh.top/hackmyvm/114/)
+- 🧱 [Gameshell – HackMyVM](https://nutzh.top/hackmyvm/gameshell/)
 
 
 More writeups on: [https://nutzh.top](https://nutzh.top)
