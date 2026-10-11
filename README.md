@@ -1,49 +1,53 @@
-## 💫 About Me
+<div align="center">
 
-🌱 I’m currently building **technical cybersecurity content** and **web projects** with **Next.js** and **TypeScript**.  
-💬 Ask me about Linux, web security writeups, offensive-security labs, or automation.  
-⚡ I'm passionate about cybersecurity, technical writing, and building tools that make learning more practical.  
-📫 How to reach me: yous.khouya@gmail.com
+# Youssef Khouya
 
-### 📌 Projects I'm Working On
+**Cybersecurity student · Offensive-security labs · Detection engineering · Security tooling**
 
--  **Nutzh.top** — my personal website built with **Next.js**, **TypeScript**, and **MDX**, featuring **61 technical writeups**  
--  **Path Checker** — a Python tool for detecting and testing path traversal issues  
--  Security writeups and lab notes focused on **Hack The Box**, **TryHackMe**, and **HackMyVM**
-### 🌐 My Website
+[![Website](https://img.shields.io/badge/nutzh.top-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nutzh.top)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-k-ab87061ba)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yous.khouya@gmail.com)
 
-Check out my writeups, and tutorials on my website:
+</div>
 
-[![Website](https://img.shields.io/badge/nutzh.top-%23007acc?style=plastic&logo=google-chrome&logoColor=white)](https://nutzh.top)
+## About
 
-### 📝 Latest Writeups
+I learn security by building labs, testing systems in controlled environments, and documenting what worked. My current work focuses on web security, reconnaissance, Active Directory attack simulation, Wazuh detection engineering, and small tools that remove repetitive work.
 
-- 🧱 [Reactor – Hack The Box](https://nutzh.top/hack-the-box/Reactor/)
-- 🧱 [114 – HackMyVM](https://nutzh.top/hackmyvm/114/)
-- 🧱 [Gameshell – HackMyVM](https://nutzh.top/hackmyvm/gameshell/)
+I publish practical writeups and project notes on [nutzh.top](https://nutzh.top), including more than 50 Hack The Box, HackMyVM, TryHackMe, and VulnHub-style lab writeups.
 
+## Featured projects
 
-More writeups on: [https://nutzh.top](https://nutzh.top)
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-k-ab87061ba) 
+- [**Recon**](https://github.com/YoussefKHouya/recon) — bounded, provenance-preserving reconnaissance pipeline for authorized bug-bounty and security testing.
+- [**PurpleTeamProject**](https://github.com/YoussefKHouya/PurpleTeamProject) — Wazuh detection engineering with MITRE ATT&CK mapping, live validation, false-positive testing, and versioned rule evidence.
+- [**Jsniffer**](https://github.com/YoussefKHouya/Jsniffer) — dependency-free Python CLI for searching, reading, and editing nested JSON through dotted paths.
+- [**Path Checker**](https://github.com/YoussefKHouya/path-checker) — Python CLI for authorized path-traversal testing with multiple payload encodings, proxy support, and result export.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=plastic&logo=digitalOcean&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=plastic&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YoussefKHouya&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=YoussefKHouya&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefKHouya&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## Latest writeups
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=YoussefKHouya&theme=radical&no-frame=true&no-bg=true&margin-w=4)
+- [Grand Larceny Auto — TryHackMe](https://nutzh.top/try-hack-me/GLA)
+- [Vault — HackMyVM](https://nutzh.top/hackmyvm/vault)
+- [Reactor — Hack The Box](https://nutzh.top/hack-the-box/Reactor)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[Browse all writeups →](https://nutzh.top/my-writeups)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=YoussefKHouya&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
+## Tools and technologies
 
----
-[![](https://visitcount.itsvg.in/api?id=YoussefKHouya&icon=6&color=0)](https://visitcount.itsvg.in)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## GitHub activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YoussefKHouya&show_icons=true&theme=catppuccin_mocha&hide_border=true" alt="Youssef's GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefKHouya&layout=compact&theme=catppuccin_mocha&hide_border=true" alt="Most used languages" />
+
+</div>
