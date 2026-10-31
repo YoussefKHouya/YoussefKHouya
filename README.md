@@ -18,7 +18,6 @@ I publish practical writeups and project notes on [nutzh.top](https://nutzh.top)
 
 ## Featured projects
 
-- [**Recon**](https://github.com/YoussefKHouya/recon) — bounded, provenance-preserving reconnaissance pipeline for authorized bug-bounty and security testing.
 - [**PurpleTeamProject**](https://github.com/YoussefKHouya/PurpleTeamProject) — Wazuh detection engineering with MITRE ATT&CK mapping, live validation, false-positive testing, and versioned rule evidence.
 - [**Jsniffer**](https://github.com/YoussefKHouya/Jsniffer) — dependency-free Python CLI for searching, reading, and editing nested JSON through dotted paths.
 - [**Path Checker**](https://github.com/YoussefKHouya/path-checker) — Python CLI for authorized path-traversal testing with multiple payload encodings, proxy support, and result export.
