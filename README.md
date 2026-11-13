@@ -2,7 +2,7 @@
 
 # Youssef Khouya
 
-**Cybersecurity student · Offensive-security labs · Detection engineering · Security tooling**
+**Cybersecurity student · Offensive security · OT/ICS security · Detection engineering · Security tooling**
 
 [![Website](https://img.shields.io/badge/nutzh.top-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://nutzh.top)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/youssef-k-ab87061ba)
@@ -12,12 +12,13 @@
 
 ## About
 
-I learn security by building labs, testing systems in controlled environments, and documenting what worked. My current work focuses on web security, reconnaissance, Active Directory attack simulation, Wazuh detection engineering, and small tools that remove repetitive work.
+I learn security by building projects, testing systems in controlled environments, and documenting what worked. My current work focuses on OT/ICS security, web security, reconnaissance, Active Directory attack simulation, Wazuh detection engineering, and small tools that remove repetitive work.
 
-I publish practical writeups and project notes on [nutzh.top](https://nutzh.top), including more than 50 Hack The Box, HackMyVM, TryHackMe, and VulnHub-style lab writeups.
+I publish practical writeups and project notes on [nutzh.top](https://nutzh.top), including more than 50 Hack The Box, HackMyVM, TryHackMe, and VulnHub-style machine writeups.
 
 ## Featured projects
 
+- [**Wind Farm OT**](https://github.com/YoussefKHouya/wind-farm-ot) — simulated wind farm built like a real OT network: field process, PLC and RTU over Modbus TCP, SCADA collector, alarm engine with false-data detection, interlocked command service and a 2D operator HMI, plus an independent safety function.
 - [**PurpleTeamProject**](https://github.com/YoussefKHouya/PurpleTeamProject) — Wazuh detection engineering with MITRE ATT&CK mapping, live validation, false-positive testing, and versioned rule evidence.
 - [**Jsniffer**](https://github.com/YoussefKHouya/Jsniffer) — dependency-free Python CLI for searching, reading, and editing nested JSON through dotted paths.
 - [**Path Checker**](https://github.com/YoussefKHouya/path-checker) — Python CLI for authorized path-traversal testing with multiple payload encodings, proxy support, and result export.
@@ -37,6 +38,8 @@ I publish practical writeups and project notes on [nutzh.top](https://nutzh.top)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat-square&logo=wazuh&logoColor=white)
+![Modbus TCP](https://img.shields.io/badge/Modbus_TCP-555555?style=flat-square)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
